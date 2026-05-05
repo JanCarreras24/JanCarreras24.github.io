@@ -36,6 +36,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   github: JanCarreras24
+  email: jancarreras24@gmail.com
+  
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -50,7 +52,8 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
   ORCID: https://orcid.org/0009-0001-0977-5940
-#  google-scholar: your google scholar
+  google-scholar: Jan Carreras Boada
+  linkedin: https://www.linkedin.com/in/jan-carreras-boada/
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
