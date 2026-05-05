@@ -1,17 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: A brief personal description
+subtitle: Personal website for the Cloud Computing assignment
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+Hi, my name is Jan Carreras.
+
+I am currently studying the Master's degree in Health Data Science. This website has been created as part of the Cloud Computing assignment, using GitHub Pages.
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Master's degree in Health Data Science
 
-### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+### Interests
+
+- Cloud computing
+- Health data
+- Data science
+- Bioinformatics
+
+### About this website
+
+This website is deployed using GitHub Pages. It is a simple example of how cloud services can be used to publish a personal website without managing a physical server.
