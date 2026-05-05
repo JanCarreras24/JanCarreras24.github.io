@@ -51,9 +51,9 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: https://orcid.org/0009-0001-0977-5940
-  google-scholar: Jan Carreras Boada
-  linkedin: https://www.linkedin.com/in/jan-carreras-boada/
+  ORCID: 0009-0001-0977-5940
+  google-scholar: JanCarrerasBoada
+  linkedin: /in/jan-carreras-boada/
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
