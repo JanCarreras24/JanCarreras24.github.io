@@ -1,5 +1,5 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: My amazing website :)
+title: "My amazing website :)"
 author: Jan Carreras
 
 ###############################################
@@ -17,7 +17,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
- avatar: "/images/foto_jan"
+avatar: "/images/foto_jan.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -51,9 +51,9 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: 0009-0001-0977-5940
-  google-scholar: JanCarrerasBoada
-  linkedin: /in/jan-carreras-boada/
+  ORCID: "0009-0001-0977-5940"
+  google-scholar: "JanCarrerasBoada"
+  linkedin: "in/jan-carreras-boada"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
