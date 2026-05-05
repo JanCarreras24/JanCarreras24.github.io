@@ -9,7 +9,7 @@ Hi, my name is Jan Carreras.
 I am currently studying the Master's degree in Health Data Science. This website has been created as part of the Cloud Computing assignment, using GitHub Pages.
 
 ### Education
-
+- Bachelor's degree in bioinformatics
 - Master's degree in Health Data Science
 
 ### Interests
