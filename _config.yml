@@ -1,5 +1,5 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: Jan Carreras
+title: My amazing website :)
 author: Jan Carreras
 
 ###############################################
@@ -39,7 +39,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: JanCarreras24
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -49,7 +49,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: https://orcid.org/0009-0001-0977-5940
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
