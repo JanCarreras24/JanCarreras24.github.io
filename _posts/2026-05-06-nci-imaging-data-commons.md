@@ -3,7 +3,6 @@ layout: post
 title: "NCI Imaging Data Commons: a cloud application in cancer imaging"
 subtitle: "Using cloud computing to work with biomedical images"
 tags: []
-social-share: false
 comments: true
 author: Jan Carreras
 ---
