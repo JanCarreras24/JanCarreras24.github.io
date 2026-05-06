@@ -3,6 +3,7 @@ layout: post
 title: "NCI Imaging Data Commons: a cloud application in cancer imaging"
 subtitle: "Using cloud computing to work with biomedical images"
 tags: []
+social-share: false
 comments: true
 author: Jan Carreras
 ---
@@ -13,11 +14,15 @@ The main idea is simple. Medical images, such as CT, MRI or PET scans, can be ve
 
 IDC tries to solve this problem by storing cancer imaging datasets in the cloud. Researchers can search the data, view images, access metadata and use cloud tools to analyse the information. In other words, the data is already close to the computing resources.
 
+This is important because in biomedical research the problem is not only having data. The problem is also being able to find the right data, understand it, process it and share the results with other researchers. A cloud platform can help with all these steps.
+
 ## Why is it useful?
 
 I think IDC is a good example of cloud computing because it is not only "data stored online". It is a platform that helps researchers work with large biomedical datasets without having to build all the infrastructure themselves.
 
 For example, a researcher interested in lung cancer images can use the IDC portal to find relevant image collections. Then, they can inspect the images and use tools such as cloud notebooks or metadata queries to start the analysis. This is more practical than downloading huge datasets before even knowing if they are useful.
+
+Another point I found interesting is that IDC uses standard formats such as DICOM, which is commonly used for medical images. This helps because different tools and researchers can work with the same type of data in a more organized way.
 
 This connects with several cloud concepts from class:
 
@@ -32,6 +37,8 @@ This connects with several cloud concepts from class:
 The main benefit is accessibility. IDC makes cancer imaging data easier to find and use. This can help research groups that do not have a lot of local computing infrastructure.
 
 Another benefit is reproducibility. If different researchers use the same public datasets and similar cloud tools, it is easier to compare results.
+
+It can also be useful for artificial intelligence projects. Many AI models in medical imaging need a large amount of data to train and test the model. Having public imaging datasets available in the cloud can make this process easier, especially at the beginning of a research project.
 
 However, there are also limitations. Working with cloud platforms still requires some technical knowledge. Researchers need to understand how to access the data, how to use the tools and how to control possible costs. Also, even if the data is de-identified, privacy and ethical use of biomedical data are still very important.
 
